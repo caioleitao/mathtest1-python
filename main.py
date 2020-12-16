@@ -7,10 +7,10 @@ import math
 # A
 
 #2) (reposta de nao calculo)
-# C
+# A
 
 #3) (reposta de nao calculo)
-# B
+# A
 
 #4)
 # D
