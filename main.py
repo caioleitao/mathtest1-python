@@ -35,6 +35,8 @@ q7raizQ2 = q7raiz2 ** (1/2)
 q7s = (q7raizQ1 * q7raizQ2)
 print(q7s)
 
+# A
+
 #8)
 print('area do primeiro quadrado')
 q8n1 = float(input('digite o lado 1: '))
@@ -57,11 +59,13 @@ print('a area é: ', q8s4)
 # reposta certa é 11
 
 # 9)
-#B ou D
+#B
 
 # 10) calculo de produto notavel
 q10raiz1 = float(input('Digite a primeira raiz: '))
 q10raiz2 = float(input('Digite a segunda raiz'))
+
+#C
 
 # 11)
 print('valores 1')
@@ -77,6 +81,8 @@ print(q11r3)
 #reposta certa B
 
 # 12) teorema de pitagoras
+# B
 
+#13) C
 
 
