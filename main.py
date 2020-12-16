@@ -1,7 +1,7 @@
 # Caio César Melquiades Leitão 2020
 
 import math
-# algoritmo de equação de 1 grau (em python)
+# algoritmo (em python)
 
 #1) (reposta de nao calculo)
 # A
